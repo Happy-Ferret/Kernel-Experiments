@@ -95,3 +95,7 @@ x509.genkey
 
 # Kconfig presets
 all.config
+
+# Kernel configuration
+.config
+.config.old
